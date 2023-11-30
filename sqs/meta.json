@@ -1,0 +1,13 @@
+{
+	"title": "semantic-quesion-similarity",
+	"source": "https://github.com/AliOsm/semantic-question-similarity/tree/master",
+	"count": 11998,
+	"features": [
+		"QuestionPairID": "unique id for each pair",
+		"questionX": "question pair",
+	],
+	"lebels": [
+		{"key": "1", "description": "semantically similar pairs"},
+		{"key": "0", "description": "semantically dissimilar pairs"}
+	]
+}
