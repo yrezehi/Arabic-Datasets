@@ -1,5 +1,5 @@
 {
-	"title": "Arabic stop words",
+	"title": "arabic-stop-words",
 	"source": "https://github.com/mohataher/arabic-stop-words/blob/master/list.txt",
 	"count": 800,
 	"features": [],
