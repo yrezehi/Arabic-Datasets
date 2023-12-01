@@ -1,0 +1,10 @@
+{
+	"title": "semantic-quesion-similarity",
+	"source": "https://docs.google.com/spreadsheets/d/1ga10sASaqFXO2mE-jS1llpmbLi9h5L2BBDqWFjoYhY8/edit?trk=public_post_comment-text#gid=689846956",
+	"count": 62,
+	"features": [
+		"SentencePairID": "unique id for each pair",
+		"Timestamp": "question pair",
+	],
+	"lebels": []
+}
